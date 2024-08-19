@@ -1,0 +1,6 @@
+bisakah membuat  autentikasi expo-router, http client menggunakan axios. autentikasi menggunakan email dan password. response token disimpan ke dalam secure-storage. sediakan juga autentikasi provider. buat dalam bahasa javascript. konfigurasi expo-router
+
+
+
+(optional)
+konfigurasi expo-router
